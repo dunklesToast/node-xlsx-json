@@ -1,19 +1,19 @@
 # node-xlsx-json
 
-[![Build Status](https://travis-ci.org/DataGarage/node-xlsx-json.png?branch=master)](https://travis-ci.org/DataGarage/node-xlsx-json)
+### Original Package is avalaible [here](http://github.com/DataGarage/node-xlsx-json)
 
 Converting xlsx file to json files using nodejs
 
 ## Install
 
 ```
-  npm install xlsx-to-json
+  npm install xlsx-to-json-depfix
 ```
 
 ## Usage
 
 ```javascript
-  xlsxj = require("xlsx-to-json");
+  xlsxj = require("xlsx-to-json-depfix");
   xlsxj({
     input: "sample.xlsx", 
     output: "output.json"
@@ -31,7 +31,7 @@ Converting xlsx file to json files using nodejs
 You can optionally provide a sheet name to extract from that sheet
 
 ```javascript
-  xlsxj = require("xlsx-to-json");
+  xlsxj = require("xlsx-to-json-depfix");
   xlsxj({
     input: "sample.xlsx", 
     output: "output.json",
@@ -49,6 +49,6 @@ In config object, you have to enter an input path. But If you don't want to outp
 
 ## License
 
-MIT [@chilijung](http://github.com/chilijung)
+MIT
 
 

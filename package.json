@@ -3,6 +3,13 @@
   "version": "0.2.5",
   "description": "Convert xlsx to json",
   "main": "index.js",
+  "keywords": [
+    "xlsx",
+    "converter",
+    "json",
+    "excel",
+    "table"
+  ],
   "scripts": {
     "test": "./node_modules/.bin/mocha"
   },
@@ -10,7 +17,8 @@
     "type": "git",
     "url": "https://github.com/dunklesToast/node-xlsx-json"
   },
-  "author": "chilijung <chilijung@gmail.com>",
+  "author": "dunklesToast <tomnik104@yahoo.de>",
+  "contributors": ["dunklesToast <tomnik104@yahoo.de>"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dunklesToast/node-xlsx-json/issues"

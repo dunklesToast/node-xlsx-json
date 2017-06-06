@@ -1,6 +1,8 @@
 # node-xlsx-json
 
 ### Original Package is avalaible [here](http://github.com/DataGarage/node-xlsx-json)
+This package has some improvements and it fixes [#26](https://github.com/DataGarage/node-xlsx-json/issues/26) 
+
 
 Converting xlsx file to json files using nodejs
 
@@ -50,5 +52,3 @@ In config object, you have to enter an input path. But If you don't want to outp
 ## License
 
 MIT
-
-

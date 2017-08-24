@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/dunklesToast/node-xlsx-json",
   "dependencies": {
-    "xlsx": "0.10.4",
+    "xlsx": "0.11.3",
     "csv": "~0.3.6"
   },
   "devDependencies": {
